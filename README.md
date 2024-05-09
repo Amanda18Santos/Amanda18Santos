@@ -6,7 +6,6 @@ Meu nome é Amanda Santos
 
 - 🔭 Estou estudando na Alura
 - 🌱 Estou me desenvolvendo na linguagem JavaScript
-  - 🤔 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-- 💬 Ask me about ...
+- 🤔 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 - 📫 Voce pode entrar em contato comigo
 - 00001096140639SP@al.educacao.sp.gov.br
